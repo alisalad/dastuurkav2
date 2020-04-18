@@ -21,6 +21,14 @@ module.exports = {
 
       ]
     },
+
+
+      settings: {
+        web: process.env.URL_WEB,
+        twitter: process.env.URL_TWITTER,
+        github: process.env.URL_GITHUB,
+      },
+
     sidebar: [
       {
         name: 'docs',
@@ -38,7 +46,7 @@ module.exports = {
             ]
           },
           {
-            title: 'Configuration',
+            title: 'Provisional Constitution',
             items: [
               '/docs/settings/',
               '/docs/sidebar/',

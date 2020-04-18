@@ -1,5 +1,5 @@
 ---
-description: 'Xuquuqda Asaasiga ah iyo Waajibaadka Muwaaddinka'
+description: 'Jamhuuriyadda Federaalka Soomaaliya'
 sidebar: 'docs'
 prev: '/docs/writing-content/'
 next: '/docs/cutubka-2aad/'

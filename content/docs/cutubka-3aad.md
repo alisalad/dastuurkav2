@@ -1,12 +1,14 @@
 ---
-description: ''
+description: 'Dhulka, Hantida iyo Deegaanka'
 sidebar: 'docs'
-prev: '/docs/writing-content/'
+prev: '/docs/cutubka-2aad/'
 next: '/docs/settings/'
 ---
 
 ## Cutubka Saddexaad:
+
 **Dhulka, Hantida iyo Deegaanka**
+
 ## Qodobka 43aad.
 **Dhulka**
 1.  Dhulku waa kheyraadka koowaad ee Soomaaliya iyo saldhigga nolosha dadka.

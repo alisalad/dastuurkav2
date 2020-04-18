@@ -1,5 +1,5 @@
 ---
-description: ''
+description: 'Madaxa Koowaad: Mabaadi’da Guud Ee Xuquuqda Aadanaha'
 sidebar: 'docs'
 prev: '/docs/writing-content/'
 next: '/docs/settings/'
