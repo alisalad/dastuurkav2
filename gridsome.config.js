@@ -34,6 +34,7 @@ module.exports = {
               '/docs/deploying/',
               '/docs/cutubka-1aad/',
               '/docs/cutubka-2aad/',
+              '/docs/cutubka-3aad/',
             ]
           },
           {
