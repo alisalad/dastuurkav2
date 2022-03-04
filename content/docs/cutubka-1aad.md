@@ -5,7 +5,7 @@ prev: '/docs/writing-content/'
 next: '/docs/cutubka-2aad/'
 ---
 
-# Cutubka koowaad
+# Cutubka koowaaaaaaaaaaaaad
 
 ## Qodobka 1aad
 
