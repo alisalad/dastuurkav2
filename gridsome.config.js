@@ -40,7 +40,7 @@ module.exports = {
               '/docs/installation/',
               '/docs/writing-content/',
               '/docs/deploying/',
-              '/docs/cutubka-1aad/',
+              '/docs/cutubka-11aad/',
               '/docs/cutubka-2aad/',
               '/docs/cutubka-3aad/',
             ]
