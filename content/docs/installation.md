@@ -5,7 +5,7 @@ prev: '/docs/'
 next: '/docs/writing-content/'
 ---
 
-# Installation
+# Dhisid
 
 There are several ways to to install this theme.
 
